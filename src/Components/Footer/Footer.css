@@ -1,0 +1,19 @@
+.footer-planing{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+} 
+.footer-planing input{
+    width: 75%;
+    padding: 20px 10px;
+    border: 0ch;
+    background-color: rgb(232, 226, 226);
+}
+
+.footer-planing button{
+    width: 25%;
+    border: 0ch;
+    background-color: rgb(67, 157, 221);
+    cursor: pointer;
+    color: #FFF;
+}
